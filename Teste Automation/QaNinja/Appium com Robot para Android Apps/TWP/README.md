@@ -170,7 +170,7 @@ Atenção: se a variável PATH não existir, crie a variável com o mesmo valor 
 
 10 - Deve ser apresentado uma lista de opções (parâmetros) para o comando. A primeira linha possui o texto “Uso: java [-options] class [args...]
 
-                        Configurando o Android SDK 
+             Configurando o Android SDK 
 
 
 1 - Abra o Android Studio
@@ -358,7 +358,7 @@ Dica para quem for usar o google chrome para automatizar, é preciso informar o 
 
 
 <p align="center">
-<img width="680" src="https:images/config-chromedriver-appium.png">
+<img width="680" src="images/config-chromedriver-appium.png">
 </p>
 
 O ChromeDriver precisa estar na mesma versão que o navegador do dispositivo
