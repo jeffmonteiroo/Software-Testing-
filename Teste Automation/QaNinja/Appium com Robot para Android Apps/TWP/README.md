@@ -11,11 +11,12 @@ Este material é um guia para o setup do ambiente de configuração e uso do App
 
 <ul>
     <li>Entender como funciona o framework Appium e como fazer o setup desta aplicação nas plataformas: Windows, Linux e Mac;</li>
+    <li>Como configurar um dispositivo Android real;</li>
     <li>Como instanciar um dispositivo Android emulado através do Android Studio;</li>
-    <li>Como fazer mapeamento de elementos de uma aplicação em seu dispositivo;</li>
-    <li>Como instalar um aplicativo da PlayStore em seu dispositivo emulado;</li>
-    <li>Como iniciar testes de UI em sua aplicação através do Appium com o Robot Framework;</li>
-    <li>Conhecer as funcionalidades específicas do Appium.</li>
+    <li>Como fazer mapeamento de elementos de uma aplicação em seu dispositivo;(em andamento)</li> 
+    <li>Como instalar um aplicativo da PlayStore em seu dispositivo emulado; (em andamento)</li>
+    <li>Como iniciar testes de UI em sua aplicação através do Appium com o Robot Framework;(em andamento)</li>
+    <li>Conhecer as funcionalidades específicas do Appium. (em andamento)</li>
 </ul>
 
 ___
