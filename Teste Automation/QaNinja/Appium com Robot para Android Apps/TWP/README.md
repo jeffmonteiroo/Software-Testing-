@@ -14,8 +14,8 @@ Este material é um guia para o setup do ambiente de configuração e uso do App
     <li>Como instanciar um dispositivo Android emulado através do Android Studio;</li>
     <li>Como fazer mapeamento de elementos de uma aplicação em seu dispositivo;</li>
     <li>Como instalar um aplicativo da PlayStore em seu dispositivo emulado;</li>
-    <li>Como iniciar testes de UI em sua aplicação através do Appium com a linguagem de programação Python;</li>
-    <li>Conhecer sos e funcionalidades específicas do Appium.</li>
+    <li>Como iniciar testes de UI em sua aplicação através do Appium com o Robot Framework;</li>
+    <li>Conhecer as funcionalidades específicas do Appium.</li>
 </ul>
 
 ___
